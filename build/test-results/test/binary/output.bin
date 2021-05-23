@@ -1,0 +1,6 @@
+_[MockitoHint] NetworkManagerTest.requestDirectionsNotSuccessful (see javadoc for MockitoHint):
+n[MockitoHint] 1. Unused -> at api.NetworkManagerTest.requestDirectionsNotSuccessful(NetworkManagerTest.kt:74)
+
+b[MockitoHint] NetworkManagerTest.requestLocationCheckNotSuccessful (see javadoc for MockitoHint):
+r[MockitoHint] 1. Unused -> at api.NetworkManagerTest.requestLocationCheckNotSuccessful(NetworkManagerTest.kt:123)
+

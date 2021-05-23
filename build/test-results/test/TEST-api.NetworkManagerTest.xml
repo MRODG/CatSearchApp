@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="api.NetworkManagerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-05-23T20:50:56" hostname="apples-iMac.local" time="2.296">
+  <properties/>
+  <testcase name="requestDirectionsNotSuccessful" classname="api.NetworkManagerTest" time="2.284"/>
+  <testcase name="requestDirectionsSuccessful" classname="api.NetworkManagerTest" time="0.003"/>
+  <testcase name="requestLocationCheckSuccessful" classname="api.NetworkManagerTest" time="0.002"/>
+  <testcase name="requestLocationCheckNotSuccessful" classname="api.NetworkManagerTest" time="0.005"/>
+  <system-out><![CDATA[[MockitoHint] NetworkManagerTest.requestDirectionsNotSuccessful (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at api.NetworkManagerTest.requestDirectionsNotSuccessful(NetworkManagerTest.kt:74)
+
+[MockitoHint] NetworkManagerTest.requestLocationCheckNotSuccessful (see javadoc for MockitoHint):
+[MockitoHint] 1. Unused -> at api.NetworkManagerTest.requestLocationCheckNotSuccessful(NetworkManagerTest.kt:123)
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
